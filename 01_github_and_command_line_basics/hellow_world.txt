@@ -1,0 +1,7 @@
+New lines to say hello world!!
+
+Making file from CLI, editing and pushing changes to git. 
+
+Need to track these changes. . . 
+
+Changes for git commitcomments  through VS code
