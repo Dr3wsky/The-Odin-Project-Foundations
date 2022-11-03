@@ -1,3 +1,9 @@
 [submodule "CSS-exercises"]
 	path = CSS-exercises
 	url = git@github.com:Dr3wsky/CSS-exercises.git
+[submodule "landing-page-project"]
+	path = landing-page-project
+	url = git@github.com:Dr3wsky/landing-page-project.git
+[submodule "recipes-project"]
+	path = recipes-project
+	url = git@github.com:Dr3wsky/recipes-project.git
