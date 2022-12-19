@@ -1,27 +1,9 @@
 [submodule "CSS-exercises"]
 	path = CSS-exercises
 	url = git@github.com:Dr3wsky/CSS-exercises.git
-[submodule "landing-page-project"]
-	path = landing-page-project
-	url = git@github.com:Dr3wsky/landing-page-project.git
-[submodule "recipes-project"]
-	path = recipes-project
-	url = git@github.com:Dr3wsky/recipes-project.git
-[submodule "rock-paper-scissors-project"]
-	path = rock-paper-scissors-project
-	url = /rock-paper-scissors-project/
 [submodule "javascript-exercises"]
 	path = javascript-exercises
 	url = git@github.com:Dr3wsky/javascript-exercises.git
-[submodule "JavaScript30"]
-	path = JavaScript30
-	url = git@github.com:wesbos/JavaScript30.git
-[submodule "Javasctipt30-tutorials"]
-	path = Javasctipt30-tutorials
-	url = git@github.com:wesbos/JavaScript30.git
-[submodule "JavaScript30-tutorials"]
-	path = JavaScript30-tutorials
-	url = git@github.com:Dr3wsky/JavaScript30-tutorials.git
 [submodule "JavaScript30-exercises"]
 	path = JavaScript30-exercises
 	url = git@github.com:Dr3wsky/JavaScript30-exercises.git
