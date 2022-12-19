@@ -25,3 +25,12 @@
 [submodule "JavaScript30-exercises"]
 	path = JavaScript30-exercises
 	url = git@github.com:Dr3wsky/JavaScript30-exercises.git
+[submodule "Projects/landing-page"]
+	path = Projects/landing-page
+	url = git@github.com:Dr3wsky/landing-page.git
+[submodule "Projects/rock-paper-scissors"]
+	path = Projects/rock-paper-scissors
+	url = git@github.com:Dr3wsky/rock-paper-scissors.git
+[submodule "Projects/recipes-page"]
+	path = Projects/recipes-page
+	url = git@github.com:Dr3wsky/recipes-page.git
