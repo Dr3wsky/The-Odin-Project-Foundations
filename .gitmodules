@@ -21,4 +21,4 @@
 	url = git@github.com:wesbos/JavaScript30.git
 [submodule "JavaScript30-tutorials"]
 	path = JavaScript30-tutorials
-	url = git@github.com:wesbos/JavaScript30.git
+	url = git@github.com:Dr3wsky/JavaScript30-tutorials.git
