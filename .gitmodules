@@ -16,3 +16,6 @@
 [submodule "Projects/recipes-page"]
 	path = Projects/recipes-page
 	url = git@github.com:Dr3wsky/recipes-page.git
+[submodule "Projects/etch-a-sketch"]
+	path = Projects/etch-a-sketch
+	url = git@github.com:Dr3wsky/etch-a-sketch.git
