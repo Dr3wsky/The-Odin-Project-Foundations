@@ -20,3 +20,6 @@
 	path = Projects/etch-a-sketch
 	url = git@github.com:Dr3wsky/etch-a-sketch.git
 
+[submodule "Projects/calculator-app"]
+	path = Projects/calculator-app
+	url = git@github.com:Dr3wsky/calculator-app.git
