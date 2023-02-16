@@ -35,7 +35,7 @@
   <form action="post">
     <ul>
         <li>
-            <label for="max-invite" class="num-invite">Select maximum number of invitations: 10</label>
+            <label for="max-invite" class="invite-output">Select maximum number of invitations: 10</label>
             <input
                 type="range" 
                 name="num-invites" 
@@ -46,19 +46,13 @@
                 value="10">
         </li>
         <li class="send-invites">
-            <input type="submit" value="Send Invites" id="send-invites">
+            <input type="submit" value="Send Invites">
         </li>
         <script>
-            const guests = document.getElementsByClassName("num-invite");
+            const guests = document.getElementsByClassName("invite-output");
             let numGuests = document.getElementById("max-invite");
             numGuests.oninput = () => guests[0].innerHTML = `Select maximum number of invitations: ${numGuests.value}`;
-            
-            function updateGuests() {
-                guests[0].innerHTML = `Select maximum number of invitations: ${e.target.value}`;
-            };
 
-            // document.getElementsByClassName("guests").appendChild(invites);
-            // numGuests.addEventListener("input", (e) => invites.innerHTML = `${num-invites}`)
         </script>
       </ul>
   </form>
