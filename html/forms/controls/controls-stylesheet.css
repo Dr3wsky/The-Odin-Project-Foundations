@@ -22,3 +22,10 @@ button {
   height: 20px;
   width: 100px;
 }
+
+label{
+  float: left;
+  clear: left;
+  width: 150px;
+  text-align: left; /*Change to right here if you want it close to the inputs*/
+}
