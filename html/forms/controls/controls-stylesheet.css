@@ -26,6 +26,6 @@ button {
 label{
   float: left;
   clear: left;
-  width: 150px;
+  width: 250px;
   text-align: left; /*Change to right here if you want it close to the inputs*/
 }
