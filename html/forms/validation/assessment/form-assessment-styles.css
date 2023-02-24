@@ -6,6 +6,42 @@ body {
     margin: 0;
   }
 
-  * {
+  *, *:focus {
     box-sizing: border-box;
+    text-decoration: none;
+    outline:none;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  label {
+    display:inline-block;
+    vertical-align: middle;
+    width: 150px;
+    padding: 1em;
+    margin: 1em;
+  }
+
+  input, textarea {
+    display:inline-block;
+    vertical-align: middle;
+    width: 500px;
+  }
+
+  input:invalid {
+    border: solid orange;
+    border-radius: 5px;
+  }
+
+  input:invalid:focus {
+    border: solid red;
+    border-radius: 5px;
+  }
+
+  input:valid {
+    border: solid green;
+    border-radius: 5px;
+
   }
