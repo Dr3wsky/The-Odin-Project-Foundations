@@ -22,3 +22,6 @@
 [submodule "Projects/calculator-app"]
 	path = Projects/calculator-app
 	url = git@github.com:Dr3wsky/calculator-app.git
+[submodule "Projects/sign-up-form"]
+	path = Projects/sign-up-form
+	url = git@github.com:Dr3wsky/sign-up-form.git
