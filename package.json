@@ -1,0 +1,17 @@
+{
+  "name": "the-odin-project-foundations",
+  "version": "1.0.0",
+  "description": "This repository is to track work and publish results from The Odin Project (TOP) Foundations course.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
